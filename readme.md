@@ -55,3 +55,33 @@ Le document est accessible via le lien suivant : [Exercices Grist - Métropole d
 4. Quizz d'auto-évaluation
 
 _a venir_
+
+## Python
+
+1. Objectifs pédagogiques
+| Objectif pédagogique | Description |
+|---------------------|-------------|
+| Maitriser les types natifs | Comprendre les différents types de données en Python et leur synthaxe. |
+| Maitriser le conditionnel | Comprendre comment utiliser les structures conditionnelles pour contrôler le flux d'exécution du code. |
+| Maitriser les boucles | Comprendre comment utiliser les boucles pour itérer sur des séquences et effectuer des opérations répétitives. |
+| Maitriser les fonctions | Comprendre comment définir et utiliser des fonctions pour organiser le code et réutiliser des blocs de code. |
+| S'approprier les notions de programme orienté objet | Comprendre les concepts de base de la programmation orientée objet en Python (les classes, les objets, l'héritage, la composition ...). |
+| Maitriser son environnement de développement | Comprendre comment configurer et utiliser un environnement de développement Python, y compris l'installation de packages et la gestion des dépendances. |
+| Connaissances des notions de développement logiciel | Comprendre les bonnes pratiques de développement logiciel. Identifier le couplage, connaître le principe de responsabilité unique et les design pattern. |
+
+2. Ressources disponibles
+
+  - [Documentation INSEE de Python](https://www.sspcloud.fr/catalog?path=Introduction%E2%90%A3to%E2%90%A3Python)
+  - [Cours orienté objet en Python](https://courspython.com/classes-et-objets.html)
+  - [Environnements python](https://docs.python.org/fr/3/tutorial/venv.html) (uniquement les sections 12.1 et 12.2)
+  - [Les design patterns en Python](https://refactoring.guru/design-patterns/python) (Abstract Factory, Adapter, Composite, Strategy)
+
+3. Exercices
+
+Pour la maitrise de Python, il est conseillé de suivre le cours en ligne proposé par l'INSEE.  
+Pour les design patterns, _a venir_
+
+4. Quizz d'auto-évaluation
+
+_a venir_
+
