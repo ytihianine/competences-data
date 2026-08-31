@@ -85,3 +85,21 @@ Pour les design patterns, _a venir_
 
 _a venir_
 
+## SQL
+
+1. Objectifs pédagogiques
+| Objectif pédagogique | Description |
+|---------------------|-------------|
+| Connaître les types de données de SQL | Connaître les différents types de données disponibles en SQL. |
+| Maitriser les requêtes de sélection | Savoir rédiger des requêtes SQL pour sélectionner des données à partir de tables. |
+| Maitriser les jointures | Savoir utiliser les jointures pour combiner des données provenant de plusieurs tables. |
+| Maitriser les sous-requêtes | Comprendre comment utiliser les sous-requêtes pour effectuer des opérations complexes sur les données. |
+| Maitriser les fonctions d'agrégation | Savoir utiliser les fonctions d'agrégation pour effectuer des calculs sur des ensembles de données. |
+| Maitriser les vues | Savoir utiliser les vues pour faciliter la gestion des données. |
+| Maitriser la sécurité des bases de données | Savoir gérer les utilisateurs, les rôles et les permissions pour garantir la sécurité des bases de données et protéger les données sensibles. |
+| Maitriser l'optimisation des requêtes | Savoir analyser et optimiser les requêtes SQL pour améliorer les performances et réduire le temps d'exécution des opérations sur les bases de données. |
+
+2. Ressources disponibles
+
+  - [Cours SQL de W3Schools](https://www.w3schools.com/sql/)
+  - [Gestion des rôles dans PostgreSQL](https://www.postgresql.org/docs/current/database-roles.html)
