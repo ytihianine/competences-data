@@ -96,6 +96,7 @@ _a venir_
 ## SQL
 
 1. Objectifs pédagogiques
+
 | Objectif pédagogique | Description |
 |---------------------|-------------|
 | Connaître les types de données de SQL | Connaître les différents types de données disponibles en SQL. |
