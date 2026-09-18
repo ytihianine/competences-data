@@ -7,6 +7,7 @@ Ce dépôt contient tous les objectifs pédagogiques et les exercices pour monte
 - [Méthode d'apprentissage](#méthode-dapprentissage)
 - [Grist](#grist)
 - [Python](#python)
+- [Développement logiciel]()
 - [SQL](#sql)
 - [Git](#git)
 - [Apache Superset](#apache-superset)
@@ -84,6 +85,13 @@ Pour les design patterns, _a venir_
 4. Quizz d'auto-évaluation
 
 _a venir_
+
+## Développement logiciel
+
+1. Objectifs pédagogiques
+
+| Objectif pédagogique | Description |
+|---------------------|-------------|
 
 ## SQL
 
