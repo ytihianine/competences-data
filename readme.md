@@ -30,13 +30,12 @@ La vidéo suivante présente des méthodes d'apprentissage efficaces pour s'appr
 
 | Objectif pédagogique | Description |
 |---------------------|-------------|
-| Découvrir Grist | Comprendre les fonctionnalités de base de Grist et comment l'utiliser pour gérer des données. |
-| Gérer ses espaces et ses documents | Apprendre à créer et organiser des espaces et des documents dans Grist. |
-| Créer un document | Apprendre à créer, modifier et gérer des tables dans Grist, y compris l'ajout de colonnes et de types de données. |
-| Utiliser les formules | Apprendre à utiliser les formules dans Grist pour effectuer des calculs et manipuler les données. |
-| Créer des vues personnalisées | Apprendre à créer des vues personnalisées pour visualiser les données de manière efficace. |
-| Partager et collaborer | Comprendre comment partager des documents Grist et collaborer avec d'autres utilisateurs. |
-| Avoir les bons réflexes | Développer les bonnes pratiques pour travailler efficacement avec Grist et éviter les erreurs courantes. |
+| Comprendre l'écosystème Grist | Quelles sont ses fonctionnalités, pourquoi est-il utilisé, qui maintient et gère l'outil. |
+| Créer et organiser des espaces et des documents | Créer un espace de travail, créer un document, le renommer et le déplacer dans un nouvel espace. Dupliquer un document. |
+| Construire un document | Créer des tables, y définir des colonnes, créer des pages, créer des vues et saisir des données. |
+| Écrire des formules | Rédiger une formule à partir d'une formule intégrée, construire une formule python. |
+| Partager son espace et ses documents | Comprendre comment partager des documents Grist et collaborer avec d'autres utilisateurs. |
+| Avoir les bons réflexes | Identifier les erreurs courantes (types de données, formules, structure). |
 
 2. Ressources disponibles
 
@@ -59,6 +58,7 @@ _a venir_
 ## Python
 
 1. Objectifs pédagogiques
+
 | Objectif pédagogique | Description |
 |---------------------|-------------|
 | Maitriser les types natifs | Comprendre les différents types de données en Python et leur synthaxe. |
