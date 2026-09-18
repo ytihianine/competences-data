@@ -61,13 +61,13 @@ _a venir_
 
 | Objectif pédagogique | Description |
 |---------------------|-------------|
-| Maitriser les types natifs | Comprendre les différents types de données en Python et leur synthaxe. |
-| Maitriser le conditionnel | Comprendre comment utiliser les structures conditionnelles pour contrôler le flux d'exécution du code. |
-| Maitriser les boucles | Comprendre comment utiliser les boucles pour itérer sur des séquences et effectuer des opérations répétitives. |
-| Maitriser les fonctions | Comprendre comment définir et utiliser des fonctions pour organiser le code et réutiliser des blocs de code. |
-| S'approprier les notions de programme orienté objet | Comprendre les concepts de base de la programmation orientée objet en Python (les classes, les objets, l'héritage, la composition ...). |
-| Maitriser son environnement de développement | Comprendre comment configurer et utiliser un environnement de développement Python, y compris l'installation de packages et la gestion des dépendances. |
-| Connaissances des notions de développement logiciel | Comprendre les bonnes pratiques de développement logiciel. Identifier le couplage, connaître le principe de responsabilité unique et les design pattern. |
+| Déclarer des variables | Instancier des variables avec les types natifs de python, convertir des variables et vérifier leur type. |
+| Écrire des structures conditionnelles | Mettre en place des conditions if/elif/else, vérifier le flux de sortie. |
+| Écrire des boucles | Comprendre comment utiliser les boucles pour itérer sur des séquences et effectuer des opérations répétitives. |
+| Définir et appeler des fonctions | Comprendre comment définir et utiliser des fonctions pour organiser le code et réutiliser des blocs de code. |
+| Construire et instancier une classe | Comprendre les concepts de base de la programmation orientée objet en Python (les classes, les objets, l'héritage, la composition ...). |
+| Configurer un environnement de développement | Comprendre comment configurer et utiliser un environnement de développement Python, y compris l'installation de packages et la gestion des dépendances. |
+
 
 2. Ressources disponibles
 
