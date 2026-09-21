@@ -102,13 +102,13 @@ _a venir_
 | Objectif pédagogique | Description |
 |---------------------|-------------|
 | Connaître les types de données de SQL | Connaître les différents types de données disponibles en SQL. |
-| Maitriser les requêtes de sélection | Savoir rédiger des requêtes SQL pour sélectionner des données à partir de tables. |
-| Maitriser les jointures | Savoir utiliser les jointures pour combiner des données provenant de plusieurs tables. |
-| Maitriser les sous-requêtes | Comprendre comment utiliser les sous-requêtes pour effectuer des opérations complexes sur les données. |
-| Maitriser les fonctions d'agrégation | Savoir utiliser les fonctions d'agrégation pour effectuer des calculs sur des ensembles de données. |
-| Maitriser les vues | Savoir utiliser les vues pour faciliter la gestion des données. |
-| Maitriser la sécurité des bases de données | Savoir gérer les utilisateurs, les rôles et les permissions pour garantir la sécurité des bases de données et protéger les données sensibles. |
-| Maitriser l'optimisation des requêtes | Savoir analyser et optimiser les requêtes SQL pour améliorer les performances et réduire le temps d'exécution des opérations sur les bases de données. |
+| Écrire des requêtes de sélection | Savoir rédiger des requêtes SQL pour sélectionner des données à partir de tables. |
+| Écrire des jointures | Savoir utiliser les jointures pour combiner des données provenant de plusieurs tables. |
+| Écrire des sous-requêtes et des Common Table Expression (CTE) | Comprendre comment utiliser les sous-requêtes pour effectuer des opérations complexes sur les données. |
+| Utiliser les fonctions d'agrégation | Savoir utiliser les fonctions d'agrégation pour effectuer des calculs sur des ensembles de données. |
+| Créer des vues | Savoir utiliser les vues pour faciliter la gestion des données. |
+| Créer et gérer des rôles et des utilisateurs | Savoir gérer les utilisateurs, les rôles et les permissions pour garantir la sécurité des bases de données et protéger les données sensibles. |
+| Optimiser des requêtes | Savoir analyser et optimiser les requêtes SQL pour améliorer les performances et réduire le temps d'exécution des opérations sur les bases de données. |
 
 2. Ressources disponibles
 
