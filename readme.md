@@ -67,6 +67,8 @@ _a venir_
 | Écrire des boucles | Comprendre comment utiliser les boucles pour itérer sur des séquences et effectuer des opérations répétitives. |
 | Définir et appeler des fonctions | Comprendre comment définir et utiliser des fonctions pour organiser le code et réutiliser des blocs de code. |
 | Construire et instancier une classe | Comprendre les concepts de base de la programmation orientée objet en Python (les classes, les objets, l'héritage, la composition ...). |
+| Créer et utiliser les dunder méthodes | Connaître les principales dunder méthodes et remplacer des dunder méthodes|
+| Utiliser les principales built-in méthodes des types | Utiliser les principales méthodes de str, dict, list, set. |
 | Configurer un environnement de développement | Comprendre comment configurer et utiliser un environnement de développement Python, y compris l'installation de packages et la gestion des dépendances. |
 
 
