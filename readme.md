@@ -142,3 +142,34 @@ _a venir_
 4. Quizz d'auto-évaluation
 
 _a venir_
+
+## Apache Superset
+
+1. Objectifs pédagogiques
+
+| Objectif pédagogique | Description |
+|---------------------|-------------|
+| Créer, modifier et supprimer un dataset | |
+| Créer, modifier et supprimer un graphique | |
+| Créer, modifier et supprimer un tableau de bord | |
+| Créer un dataset personnalisé depuis le SQLlab | Réaliser une requête SQL depuis le SQLlab et sauvegarder le résultat. |
+| Créer, modifier et supprimer un utilisateur | |
+| Personnaliser le visuel d'un tableau de bord | Sélectionner une palette de couleurs, appliquer des couleurs pour des valeurs spécifiques |
+| Créer, modifier et supprimer une connexion aux sources de données | |
+| Créer graphique carte | |
+
+
+2. Ressources disponibles
+
+_a venir_
+
+
+3. Exercices
+
+_a venir_
+
+
+4. Quizz d'auto-évaluation
+
+_a venir_
+
