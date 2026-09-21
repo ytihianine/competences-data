@@ -29,14 +29,14 @@ La vidéo suivante présente des méthodes d'apprentissage efficaces pour s'appr
 
 1. Objectifs pédagogiques
 
-| Objectif pédagogique | Description |
+| Objectif pédagogique | Description (verbe d'action + critère évaluable) |
 |---------------------|-------------|
-| Comprendre l'écosystème Grist | Quelles sont ses fonctionnalités, pourquoi est-il utilisé, qui maintient et gère l'outil. |
-| Créer et organiser des espaces et des documents | Créer un espace de travail, créer un document, le renommer et le déplacer dans un nouvel espace. Dupliquer un document. |
-| Construire un document | Créer des tables, y définir des colonnes, créer des pages, créer des vues et saisir des données. |
-| Écrire des formules | Rédiger une formule à partir d'une formule intégrée, construire une formule python. |
-| Partager son espace et ses documents | Comprendre comment partager des documents Grist et collaborer avec d'autres utilisateurs. |
-| Avoir les bons réflexes | Identifier les erreurs courantes (types de données, formules, structure). |
+| Décrire l'écosystème Grist | Lister les fonctionnalités clés, expliquer son usage et identifier l'entité qui le maintient. |
+| Créer et organiser des espaces et des documents | Créer un espace de travail, un document, le renommer et le déplacer vers un nouvel espace, puis le dupliquer sans erreur. |
+| Construire un document | Créer des tables avec des colonnes typées, des pages et des vues, puis y saisir des données. |
+| Écrire des formules | Rédiger une formule à partir d'une formule intégrée puis construire une formule Python qui renvoie le résultat attendu. |
+| Partager son espace et ses documents | Configurer les droits de partage d'un document et collaborer en temps réel avec un autre utilisateur. |
+| Adopter les bons réflexes | Diagnostiquer et corriger les erreurs courantes (types de données, formules, structure) en s'appuyant sur les messages de Grist. |
 
 2. Ressources disponibles
 
@@ -60,16 +60,16 @@ _a venir_
 
 1. Objectifs pédagogiques
 
-| Objectif pédagogique | Description |
+| Objectif pédagogique | Description (verbe d'action + critère évaluable) |
 |---------------------|-------------|
-| Déclarer des variables | Instancier des variables avec les types natifs de python, convertir des variables et vérifier leur type. |
-| Écrire des structures conditionnelles | Mettre en place des conditions if/elif/else, vérifier le flux de sortie. |
-| Écrire des boucles | Comprendre comment utiliser les boucles pour itérer sur des séquences et effectuer des opérations répétitives. |
-| Définir et appeler des fonctions | Comprendre comment définir et utiliser des fonctions pour organiser le code et réutiliser des blocs de code. |
-| Construire et instancier une classe | Comprendre les concepts de base de la programmation orientée objet en Python (les classes, les objets, l'héritage, la composition ...). |
-| Créer et utiliser les dunder méthodes | Connaître les principales dunder méthodes et remplacer des dunder méthodes|
-| Utiliser les principales built-in méthodes des types | Utiliser les principales méthodes de str, dict, list, set. |
-| Configurer un environnement de développement | Comprendre comment configurer et utiliser un environnement de développement Python, y compris l'installation de packages et la gestion des dépendances. |
+| Déclarer des variables | Instancier des variables avec les types natifs (int, float, str, bool, list, dict, set, tuple), convertir entre types et vérifier le type obtenu avec `type()`. |
+| Écrire des structures conditionnelles | Implémenter des conditions `if/elif/else` et vérifier le chemin d'exécution sur des cas limites. |
+| Écrire des boucles | Itérer sur des séquences (listes, dictionnaires, plages) avec `for`/`while` pour réaliser des opérations répétitives. |
+| Définir et appeler des fonctions | Définir des fonctions avec paramètres et valeur de retour, puis les réutiliser pour organiser le code. |
+| Construire et instancier une classe | Modéliser une classe avec attributs et méthodes, l'instancier, et appliquer l'héritage et la composition. |
+| Créer et utiliser les dunder méthodes | Identifier les principales dunder méthodes (ex. `__init__`, `__str__`, `__repr__`, `__eq__`, `__len__`) et les surcharger pour adapter le comportement des objets. |
+| Utiliser les principales built-in méthodes des types | Appliquer les méthodes courantes de `str`, `dict`, `list`, `set` pour transformer et manipuler les données. |
+| Configurer un environnement de développement | Créer un environnement virtuel, installer des packages via `pip` et gérer les dépendances (ex. `requirements.txt`). |
 
 
 2. Ressources disponibles
@@ -82,7 +82,6 @@ _a venir_
 3. Exercices
 
 Pour la maitrise de Python, il est conseillé de suivre le cours en ligne proposé par l'INSEE.  
-Pour les design patterns, _a venir_
 
 4. Quizz d'auto-évaluation
 
@@ -99,16 +98,17 @@ _a venir_
 
 1. Objectifs pédagogiques
 
-| Objectif pédagogique | Description |
+| Objectif pédagogique | Description (verbe d'action + critère évaluable) |
 |---------------------|-------------|
-| Connaître les types de données de SQL | Connaître les différents types de données disponibles en SQL. |
-| Écrire des requêtes de sélection | Savoir rédiger des requêtes SQL pour sélectionner des données à partir de tables. |
-| Écrire des jointures | Savoir utiliser les jointures pour combiner des données provenant de plusieurs tables. |
-| Écrire des sous-requêtes et des Common Table Expression (CTE) | Comprendre comment utiliser les sous-requêtes pour effectuer des opérations complexes sur les données. |
-| Utiliser les fonctions d'agrégation | Savoir utiliser les fonctions d'agrégation pour effectuer des calculs sur des ensembles de données. |
-| Créer des vues | Savoir utiliser les vues pour faciliter la gestion des données. |
-| Créer et gérer des rôles et des utilisateurs | Savoir gérer les utilisateurs, les rôles et les permissions pour garantir la sécurité des bases de données et protéger les données sensibles. |
-| Optimiser des requêtes | Savoir analyser et optimiser les requêtes SQL pour améliorer les performances et réduire le temps d'exécution des opérations sur les bases de données. |
+| Associer les types de données SQL | Classer les types de données disponibles (numériques, chaînes, dates/heures, booléens) et choisir le type adapté à une valeur donnée. |
+| Écrire des requêtes de sélection | Rédiger des requêtes `SELECT` avec `WHERE`, `ORDER BY`, `GROUP BY`, `LIMIT` pour extraire les données attendues d'une table. |
+| Écrire des jointures | Combiner des données de plusieurs tables avec `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` et contrôler le nombre de lignes résultantes. |
+| Écrire des sous-requêtes et des CTE | Construire des sous-requêtes et des `WITH` (CTE) pour effectuer des opérations complexes et les hiérarchiser lisiblement. |
+| Utiliser les fonctions d'agrégation | Appliquer `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` avec `GROUP BY`/`HAVING` pour calculer des statistiques sur des ensembles. |
+| Créer des vues | Définir une vue à partir d'une requête, l'utiliser comme table et la maintenir (modifier/supprimer). |
+| Créer et gérer des rôles et des utilisateurs | Créer des rôles/utilisateurs, leur attribuer des permissions (lecture, écriture) et les révoquer pour sécuriser les données. |
+| Écrire des window functions | Calculer une information à partir d'un sous-ensemble des données qui est lié à la ligne actuel. |
+| Optimiser des requêtes | Analyser un plan d'exécution, identifier les requêtes lentes et les améliorer (index, reformulation). |
 
 2. Ressources disponibles
 
@@ -120,14 +120,14 @@ _a venir_
 
 1. Objectifs pédagogiques
 
-| Objectif pédagogique | Description |
+| Objectif pédagogique | Description (verbe d'action + critère évaluable) |
 |---------------------|-------------|
-| Créer un dépôt | Initialiser un dépôt depuis le web et initialiser un dépôt depuis un dossier local |
-| Réaliser un commit | Ajouter une modification, créer un message de commit et push |
-| Appliquer les conventionals commits | Connaître et utiliser les conventions des messages de commit |
-| Créer et gérer une branche | Réaliser ses modifications sur sa propre branche et push sa branche en remote. |
-| Créer une Pull Request | Fusionner les modifications de sa branche sur une autre branche |
-| Résoudre un conflit de branch | Valider la partie du code à conserver |
+| Créer un dépôt | Initialiser un dépôt depuis le web (ex. GitHub) et depuis un dossier local avec `git init`, puis relier les deux. |
+| Réaliser un commit | Ajouter une modification à l'index, créer un message de commit et pousser vers le dépôt distant. |
+| Appliquer les conventions de commit | Rédiger des messages de commit conformes aux Conventional Commits (type, scope, description). |
+| Créer et gérer une branche | Créer une branche, y réaliser des modifications, la pousser en remote et la fusionner. |
+| Créer une Pull Request | Ouvrir une Pull Request pour fusionner sa branche vers une autre branche et la valider. |
+| Résoudre un conflit de branche | Identifier un conflit de fusion, choisir la partie du code à conserver et finaliser la fusion. |
 
 2. Ressources disponibles
 
@@ -147,16 +147,16 @@ _a venir_
 
 1. Objectifs pédagogiques
 
-| Objectif pédagogique | Description |
+| Objectif pédagogique | Description (verbe d'action + critère évaluable) |
 |---------------------|-------------|
-| Créer, modifier et supprimer un dataset | |
-| Créer, modifier et supprimer un graphique | |
-| Créer, modifier et supprimer un tableau de bord | |
-| Créer un dataset personnalisé depuis le SQLlab | Réaliser une requête SQL depuis le SQLlab et sauvegarder le résultat. |
-| Créer, modifier et supprimer un utilisateur | |
-| Personnaliser le visuel d'un tableau de bord | Sélectionner une palette de couleurs, appliquer des couleurs pour des valeurs spécifiques |
-| Créer, modifier et supprimer une connexion aux sources de données | |
-| Créer graphique carte | |
+| Créer, modifier et supprimer un dataset | Créer un dataset depuis une source, y créer une nouvelle colonne et une nouvelle mesure, puis le supprimer. |
+| Créer, modifier et supprimer un graphique | Construire un graphique à partir d'un dataset, en changer le type, les dimensions/mesures puis le supprimer. |
+| Créer, modifier et supprimer un tableau de bord | Assembler des graphiques dans un tableau de bord, réorganiser/éditer les onglets puis le supprimer. |
+| Créer un dataset personnalisé depuis le SQL Lab | Rédiger une requête SQL dans le SQL Lab, exécuter la requête et sauvegarder le résultat en dataset. |
+| Créer, modifier et supprimer un utilisateur | Créer un compte utilisateur, lui attribuer un rôle/permissions, les modifier puis le supprimer. |
+| Personnaliser le visuel d'un tableau de bord | Sélectionner une palette de couleurs et appliquer des couleurs à des valeurs spécifiques. |
+| Créer, modifier et supprimer une connexion aux sources de données | Configurer une connexion à une base de données, la modifier puis la supprimer. |
+| Créer un graphique carte | Construire un graphique cartographique en liant une dimension géographique aux mesures. |
 
 
 2. Ressources disponibles
@@ -177,16 +177,16 @@ _a venir_
 
 1. Objectifs pédagogiques
 
-| Objectif pédagogique | Description |
+| Objectif pédagogique | Description (verbe d'action + critère évaluable) |
 |---------------------|-------------|
-| Connaître les notions clés d'Airflow | Dags, Tasks, scheduler, Xcomms ... |
-| Créer une task simple | |
-| Créer une mapped task | |
-| Créer un dag | |
-| Partager des données entre task | |
-| Analyser les logs d'un dag et d'une tâche | |
-| Créer une variable | |
-| Créer une connexion | |
+| Décrire les notions clés d'Airflow | Définir les concepts DAG, Task, Scheduler, XCom et Trigger et expliquer leurs interactions. |
+| Créer une task simple | Définir une tâche (opérateur) dans un DAG avec ses paramètres (task_id, op_args, retries, etc.). |
+| Créer une mapped task | Paramétrer une tâche pour qu'elle s'exécute sur plusieurs entrées via le mapping (`.expand()` ou `partial`). Évaluable : la tâche s'exécute pour chaque entrée fournie et les résultats sont tous présents. |
+| Créer un DAG | Définir un DAG avec ses paramètres (schedule, owner, start_date) et relier les tâches par dépendances. |
+| Partager des données entre tâches | Échanger des données entre tâches via XCom (`xcom_push`/`xcom_pull` ou `return`). |
+| Analyser les logs d'un DAG et d'une tâche | Consulter les logs d'exécution, localiser les erreurs et en identifier la cause. |
+| Créer une variable | Définir, modifier et utiliser une variable Airflow dans les DAGs. |
+| Créer une connexion | Créer et configurer une connexion Airflow (ex. base de données, API) et l'utiliser dans une tâche. |
 
 2. Ressources disponibles
 
