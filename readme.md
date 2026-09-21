@@ -114,3 +114,31 @@ _a venir_
 
   - [Cours SQL de W3Schools](https://www.w3schools.com/sql/)
   - [Gestion des rôles dans PostgreSQL](https://www.postgresql.org/docs/current/database-roles.html)
+
+
+## Git
+
+1. Objectifs pédagogiques
+
+| Objectif pédagogique | Description |
+|---------------------|-------------|
+| Créer un dépôt | Initialiser un dépôt depuis le web et initialiser un dépôt depuis un dossier local |
+| Réaliser un commit | Ajouter une modification, créer un message de commit et push |
+| Appliquer les conventionals commits | Connaître et utiliser les conventions des messages de commit |
+| Créer et gérer une branche | Réaliser ses modifications sur sa propre branche et push sa branche en remote. |
+| Créer une Pull Request | Fusionner les modifications de sa branche sur une autre branche |
+| Résoudre un conflit de branch | Valider la partie du code à conserver |
+
+2. Ressources disponibles
+
+_a venir_
+
+
+3. Exercices
+
+_a venir_
+
+
+4. Quizz d'auto-évaluation
+
+_a venir_
