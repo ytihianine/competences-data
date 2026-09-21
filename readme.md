@@ -173,3 +173,31 @@ _a venir_
 
 _a venir_
 
+## Apache Airflow
+
+1. Objectifs pédagogiques
+
+| Objectif pédagogique | Description |
+|---------------------|-------------|
+| Connaître les notions clés d'Airflow | Dags, Tasks, scheduler, Xcomms ... |
+| Créer une task simple | |
+| Créer une mapped task | |
+| Créer un dag | |
+| Partager des données entre task | |
+| Analyser les logs d'un dag et d'une tâche | |
+| Créer une variable | |
+| Créer une connexion | |
+
+2. Ressources disponibles
+
+_a venir_
+
+
+3. Exercices
+
+_a venir_
+
+
+4. Quizz d'auto-évaluation
+
+_a venir_
